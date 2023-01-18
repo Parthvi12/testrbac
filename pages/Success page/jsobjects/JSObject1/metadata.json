@@ -6,7 +6,6 @@
     "pluginType": "JS",
     "actions": [],
     "archivedActions": [],
-    "body": "export default {\n\t\tsearch_my_orders: () => {\n\t\t\treturn(select_work_orders.data.filter(user => user.customer_email==(appsmith.user.email)))\n\t}\n\t}",
     "variables": [],
     "userPermissions": []
   },

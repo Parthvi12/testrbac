@@ -19,7 +19,7 @@
           "parentRowSpace": 1,
           "type": "CANVAS_WIDGET",
           "canExtend": true,
-          "version": 74,
+          "version": 75,
           "minHeight": 1292,
           "dynamicTriggerPathList": [],
           "parentColumnSpace": 1,
@@ -197,8 +197,8 @@
               "labelAlignment": "left",
               "renderMode": "CANVAS",
               "isLoading": false,
-              "originalTopRow": 48,
-              "originalBottomRow": 56,
+              "originalTopRow": 49,
+              "originalBottomRow": 57,
               "showMarksLabel": true
             },
             {
@@ -259,7 +259,7 @@
               "originalTopRow": 34,
               "borderRadius": "{{appsmith.theme.borderRadius.appBorderRadius}}",
               "maxDynamicHeight": 9000,
-              "originalBottomRow": 40,
+              "originalBottomRow": 41,
               "isInline": true,
               "minDynamicHeight": 4
             }
